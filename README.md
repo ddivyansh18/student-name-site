@@ -1,1 +1,3 @@
-Creating a personal website
+# Student Portfolio
+
+Hey ! Welcome to my portfolio. 
